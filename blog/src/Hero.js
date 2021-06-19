@@ -9,5 +9,5 @@ const Hero = ({handleLogout}) => {
             </nav>
         </section>
     );
-};
+}; 
 export default Hero;
