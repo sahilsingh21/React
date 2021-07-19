@@ -5,6 +5,11 @@
   border-radius: 10px;
 }
 
+.post__buttons {
+  display: flex;
+  justify-content: space-evenly;
+}
+
 .post__header {
   display: flex;
   margin-bottom: 10px;
